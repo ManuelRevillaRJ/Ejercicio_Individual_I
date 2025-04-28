@@ -1,0 +1,13 @@
+.titulo{
+    font-size: 40px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around; /*  O cualquier otra opción de justify-content */
+    border: 1px solid black;
+  }
+  .bloque {
+    padding: 10px;
+    border: 1px solid black;
+  }
